@@ -16,6 +16,11 @@ import "element-plus/theme-chalk/dark/css-vars.css";
 import "@/styles/element-dark.scss";
 // custom element css
 import "@/styles/element.scss";
+// tailwind.css
+import "tailwindcss/tailwind.css";
+// 引入修正的preflight.css
+import "@/styles/preflight.css";
+
 // svg icons
 import "virtual:svg-icons-register";
 // element plus
