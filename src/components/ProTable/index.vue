@@ -312,3 +312,11 @@ defineExpose({
   selectedListIds
 });
 </script>
+
+<style scoped>
+.table-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+</style>
